@@ -3,4 +3,7 @@ netfpga-1g-cml
 
 Information about the NetFPGA 1G-CML card
 
-Please checkout the [wiki](https://github.com/cmlab/netfpga-1g-cml/wiki) for further details on how to access the content.
+For the NetFPGA code base, check out the [NetFPGA website](http://netfpga.org)
+or [NetFPGA-1G-CML
+Wiki](https://github.com/NetFPGA/NetFPGA-public/wiki/Home_NetFPGA-1G-CML).
+
